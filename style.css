@@ -5,10 +5,11 @@ body{
 }
 
 .all{
-    display:flex;
+      display:flex;
     flex-direction: column;
-    margin-left:400px;
-    margin-top: 50px;
+    justify-content: center;
+    margin-left:600px;
+   margin-top: 80px;
     align-items: center;
     width:390px;
     height:650px;
