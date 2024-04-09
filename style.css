@@ -1,15 +1,14 @@
 body{
     background-color: rgb(35, 32, 32);
     height:800px;
-
     position: relative;
 }
 
 .all{
     display:flex;
     flex-direction: column;
-    margin-left:500px;
-    margin-top: 80px;
+    margin-left:400px;
+    margin-top: 50px;
     align-items: center;
     width:390px;
     height:650px;
