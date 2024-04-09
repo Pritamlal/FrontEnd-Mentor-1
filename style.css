@@ -1,18 +1,18 @@
 body{
     background-color: rgb(35, 32, 32);
-    height:900px;
+    height:800px;
     position: relative;
 }
 
 .all{
-      display:flex;
+    display:flex;
     flex-direction: column;
     justify-content: center;
-    margin-left:800px;
+    margin-left:600px;
    margin-top: 80px;
     align-items: center;
     width:390px;
-    height:600px;
+    height:650px;
     border-color:gray;
     border-style: solid;
     border-width: 1px;
@@ -28,7 +28,6 @@ img
     height:155px;
     border-radius:255px;
     margin-bottom: 45px;
-   
 }
 .name1{
     color:white;
